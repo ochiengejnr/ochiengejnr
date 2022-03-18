@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ochiengejnr
+- 👀 I’m interested in Biostatistics and data science
+- 🌱 I’m currently learning Remote Process Automation using UiPath Studio. I am an R expert.
+- 💞️ I’m looking to collaborate on carrying out research work for pubication in Biostatistics
+- 📫 You can reach me both on twitter and IG @ochiengejnr
